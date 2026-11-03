@@ -38,3 +38,4 @@
 
 - `Win+Shift+S`: copy image from screen
 - `Win+Shift+T`: copy text from screen
+- `Win+.`: insert emoji
